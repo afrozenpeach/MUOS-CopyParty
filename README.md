@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/oeE9NR0)
+![Imgur](https://imgur.com/oeE9NR0)
 
 CopyParty is a file sharing and management tool available at: 
 https://github.com/9001/copyparty
