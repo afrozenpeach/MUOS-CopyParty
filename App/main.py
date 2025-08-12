@@ -5,7 +5,7 @@ def main():
     app.start()
 
     while True:
-        app.update()
+        app.update(null)
 
 if __name__ == "__main__":
     main()
