@@ -6,3 +6,6 @@ https://github.com/9001/copyparty
 By default it listens on 3923 with password root.
 
 You can change the configuration by editing App/copyparty.conf
+
+Code largely based on MuOS PyLauncher:
+https://github.com/mortizauge/muOS-PyLauncher
