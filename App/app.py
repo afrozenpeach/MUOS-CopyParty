@@ -51,9 +51,6 @@ def run_script():
 
     process = subprocess.Popen(
         ["python3", "/mnt/mmc/MUOS/application/CopyParty/App/copyparty-sfx.py", "-c", "/mnt/mmc/MUOS/application/CopyParty/App/copyparty.conf"] ,
-        stdout=subprocess.PIPE,
-        bufsize=1,
-        universal_newlines=True,
         cwd=os.path.dirname("/mnt/mmc/MUOS/application/CopyParty/")
     )
 
